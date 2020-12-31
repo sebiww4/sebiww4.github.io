@@ -63,3 +63,6 @@ a {
     margin-top: 290;
     
 }
+p {
+    text-indent:-9999px;
+}
