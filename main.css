@@ -14,9 +14,10 @@ h1 {
     font-size: 43;
     font-family: arial;
     margin: 15;
-    background-color: white;
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
     border-radius: 10px;
     box-shadow: 10px 5px 0px black;
+    text-shadow: white 2px 0px 3px;
 }
 ul {
   padding: 0;
@@ -30,6 +31,7 @@ a {
     text-decoration: none;
     font-family: arial;
     border-radius: 10px;
+    text-shadow: white 2px 0px 3px;
 }
 .f3 {
     display: block;
