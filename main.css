@@ -65,4 +65,5 @@ a {
 }
 p {
     text-indent:-9999px;
+    font-size: 0;
 }
